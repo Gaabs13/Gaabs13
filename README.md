@@ -5,34 +5,10 @@
 
 Transformo design em produto funcional com foco em **clareza, performance e consistência visual**.
 
----
-
-<!-- CTA -->
-
-📌 Atualmente aberto para oportunidades de front-end e projetos de produto digital  
-📫 Contato: [LinkedIn / Email / Portfólio]
-
----
-
-## 🧭 Sobre mim
-
 Atuo como desenvolvedor Front-End com foco em construção de interfaces e soluções criativas.
 
 Minha base vem do **design, arte, economia criativa e produção cultural**, o que influencia diretamente minha visão de produto: Tecnologia como linguagem, Interface como experiência e Código como estrutura de comunicação.
 
----
-
-## 💻 O que eu construo
-
-- Interfaces web modernas e responsivas
-- Aplicações front-end com arquitetura baseada em componentes
-- Design systems e bibliotecas de UI
-- Integração de APIs e fluxos de dados
-- Produtos digitais com foco em experiência do usuário
-
----
-
-## 🧰 Stack
 
 ### Front-end
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -47,6 +23,21 @@ Minha base vem do **design, arte, economia criativa e produção cultural**, o q
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=flat-square&logo=atlassian&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-3BABFF?style=flat-square&logo=krita&logoColor=white)
+
+---
+
+## 💻 O que eu construo
+
+- Interfaces web modernas e responsivas
+- Aplicações front-end com arquitetura baseada em componentes
+- Design systems e bibliotecas de UI
+- Integração de APIs e fluxos de dados
+- Produtos digitais com foco em experiência do usuário
 
 ---
 
