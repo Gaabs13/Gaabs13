@@ -44,9 +44,7 @@ Minha base vem do **Design, Arte, Economia Criativa e Produção Cultural**, o q
 
 </p>
 
-</div>
-
-<h2 align="center">💻 O que eu construo</h2>
+### 💻 O que eu construo
 
 - Interfaces web modernas e responsivas  
 - Aplicações front-end com arquitetura baseada em componentes  
@@ -55,8 +53,7 @@ Minha base vem do **Design, Arte, Economia Criativa e Produção Cultural**, o q
 - Produtos digitais com foco em experiência do usuário  
 
 
-<h2 align="center">🧠 Como eu trabalho</h2>
-
+### 🧠 Como eu trabalho
 **1. Briefing**  
 Entendimento do projeto, do público e objetivo antes de qualquer execução.
 
@@ -70,15 +67,15 @@ Desenvolvimento com acompanhamento contínuo e ajustes quando necessário.
 Código organizado, revisão final e suporte pós-entrega.
 
 
-<h2 align="center">📌 Projetos e foco atual</h2>
+### 📌 Projetos e foco atual
 
 - Sistemas de interface com React / Next.js  
 - Design systems e componentes reutilizáveis  
-- Evolução de arquitetura front-end  
+- Evolução de arquitetura Front-End  
 - Melhoria contínua em UX aplicada ao desenvolvimento  
 
 
-<h2 align="center">📈 Estou focado em evoluir em:</h2>
+### 📈 Estou focado em evoluir em:
 
 
 - Arquitetura front-end escalável  
@@ -88,12 +85,13 @@ Código organizado, revisão final e suporte pós-entrega.
 - Desenvolvimento orientado a produto  
 
 
-<h2 align="center">📫 Contato</h2>
+### 📫 Contato
 
 - Serviços: https://breezelabstudio.vercel.app/  
 - LinkedIn: https://www.linkedin.com/in/gabrielc-souza/  
 - Portfólio: https://breezelabportfolio.vercel.app/
 
+</div>
 
 <div align="center">
 
