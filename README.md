@@ -46,8 +46,8 @@ Minha base vem do **Design, Arte, Economia Criativa e Produção Cultural**, o q
 
 ### 💻 O que eu construo
 
-Interfaces web modernas e responsivas  
-Aplicações front-end com arquitetura baseada em componentes  
+Interfaces Web modernas e responsivas  
+Aplicações Front-End com arquitetura baseada em componentes  
 Design systems e bibliotecas de UI  
 Integração de APIs e fluxos de dados  
 Produtos digitais com foco em experiência do usuário  
