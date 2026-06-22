@@ -1,16 +1,99 @@
-## Hi there 👋
+<!-- HERO -->
 
-<!--
-**Gaabs13/Gaabs13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Gabriel Carlos de Souza 👋  
+### Front-end Developer focado em interfaces modernas, escaláveis e centradas no usuário.
 
-Here are some ideas to get you started:
+Transformo design em produto funcional com foco em **clareza, performance e consistência visual**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- CTA -->
+
+📌 Atualmente aberto para oportunidades de front-end e projetos de produto digital  
+📫 Contato: [LinkedIn / Email / Portfólio]
+
+---
+
+## 🧭 Sobre mim
+
+Atuo como desenvolvedor Front-End com foco em construção de interfaces e soluções criativas.
+
+Minha base vem do **design, arte, economia criativa e produção cultural**, o que influencia diretamente minha visão de produto: Tecnologia como linguagem, Interface como experiência e Código como estrutura de comunicação.
+
+---
+
+## 💻 O que eu construo
+
+- Interfaces web modernas e responsivas
+- Aplicações front-end com arquitetura baseada em componentes
+- Design systems e bibliotecas de UI
+- Integração de APIs e fluxos de dados
+- Produtos digitais com foco em experiência do usuário
+
+---
+
+## 🧰 Stack
+
+### Front-end
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 🧠 Como eu trabalho
+
+Meu processo é guiado por três pilares:
+
+**1. Clareza de interface**  
+Interfaces simples, diretas e sem fricção desnecessária.
+
+**2. Estrutura e escalabilidade**  
+Código organizado para crescimento de produto.
+
+**3. Consistência de experiência**  
+Design e implementação alinhados do início ao fim.
+
+---
+
+## 📌 Projetos e foco atual
+
+- Sistemas de interface com React / Next.js  
+- Design systems e componentes reutilizáveis  
+- Evolução de arquitetura front-end  
+- Melhoria contínua em UX aplicada ao desenvolvimento  
+
+---
+
+## 📈 Direção atual
+
+Estou focado em evoluir em:
+
+- Arquitetura front-end escalável
+- React avançado
+- Performance web
+- Design systems reais em produção
+- Desenvolvimento orientado a produto
+
+---
+
+## 📫 Contato
+
+- Serviços: https://breezelabstudio.vercel.app/  
+- LinkedIn: https://www.linkedin.com/in/gabrielc-souza/  
+- Portfólio: https://breezelabportfolio.vercel.app/  
+
+---
+
+<!-- FOOTER -->
+
+> "Transformando limites em combustível criativo!"
