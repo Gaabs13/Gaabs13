@@ -7,7 +7,7 @@ Transformo design em produto funcional com foco em **clareza, performance e cons
 
 Atuo como desenvolvedor Front-End com foco em construção de interfaces e soluções criativas.
 
-Minha base vem do **design, arte, economia criativa e produção cultural**, o que influencia diretamente minha visão de produto: Tecnologia como linguagem, Interface como experiência e Código como estrutura de comunicação.
+Minha base vem do **Design, Arte, Economia Criativa e Produção Cultural**, o que influencia diretamente minha visão de produto: Tecnologia como linguagem, Interface como experiência e Código como estrutura de comunicação.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
