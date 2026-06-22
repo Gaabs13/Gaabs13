@@ -14,7 +14,7 @@ Atuo como desenvolvedor Front-End com foco em construção de interfaces e solu�
 Minha base vem do **Design, Arte, Economia Criativa e Produção Cultural**, o que influencia diretamente minha visão de produto:  
 **Tecnologia como linguagem, Interface como experiência e Código como estrutura de comunicação.**
 
-🧱 Principais Stacks
+🧱 Principais Stacks:
 
 <p align="center">
 
@@ -28,7 +28,7 @@ Minha base vem do **Design, Arte, Economia Criativa e Produção Cultural**, o q
 
 </p>
 
-🧰 Ferramentas
+🧰 Ferramentas:
 
 <p align="center">
 
@@ -56,8 +56,6 @@ Minha base vem do **Design, Arte, Economia Criativa e Produção Cultural**, o q
 
 <h2 align="center">🧠 Como eu trabalho</h2>
 
-Meu processo é guiado por três pilares:
-
 **1. Briefing**  
 Entendimento do projeto, do público e objetivo antes de qualquer execução.
 
@@ -79,9 +77,8 @@ Código organizado, revisão final e suporte pós-entrega.
 - Melhoria contínua em UX aplicada ao desenvolvimento  
 
 
-<h2 align="center">📈 Direção atual</h2>
+<h2 align="center">📈 Estou focado em evoluir em:</h2>
 
-Estou focado em evoluir em:
 
 - Arquitetura front-end escalável  
 - React avançado  
