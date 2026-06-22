@@ -1,5 +1,8 @@
 
 <!-- HERO -->
+<p align="center">
+  <img src="./assets/linkedin atualizado.png" alt="Banner" width="100%" />
+</p>
 
 <div align="center">
 
