@@ -92,7 +92,3 @@ Desenvolvimento orientado a produto
 **Portfólio:** https://breezelabportfolio.vercel.app/
 
 </div>
-
-
-> "Transformando limites em combustível criativo!"
-
