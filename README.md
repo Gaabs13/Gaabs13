@@ -14,6 +14,8 @@ Atuo como desenvolvedor Front-End com foco em construção de interfaces e solu�
 Minha base vem do **Design, Arte, Economia Criativa e Produção Cultural**, o que influencia diretamente minha visão de produto:  
 **Tecnologia como linguagem, Interface como experiência e Código como estrutura de comunicação.**
 
+🧱 Principais Stacks
+
 <p align="center">
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
