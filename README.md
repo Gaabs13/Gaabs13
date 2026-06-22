@@ -15,7 +15,7 @@ Atuo como Desenvolvedor Front-End com foco em construção de **Interfaces e Sol
 Minha base vem do **Design, Arte, Economia Criativa e Produção Cultural**, o que influencia diretamente minha visão de produto:  
 **Tecnologia como linguagem, Interface como experiência e Código como estrutura de comunicação.**
 
-🧱 Principais Stacks:
+🧱 **Principais Stacks:**
 
 <p align="center">
 
@@ -29,7 +29,7 @@ Minha base vem do **Design, Arte, Economia Criativa e Produção Cultural**, o q
 
 </p>
 
-🧰 Ferramentas:
+🧰 **Ferramentas:**
 
 <p align="center">
 
