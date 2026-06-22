@@ -8,16 +8,11 @@
 
 Transformo design em produto funcional com foco em **clareza, performance e consistência visual**.
 
----
 
 Atuo como desenvolvedor Front-End com foco em construção de interfaces e soluções criativas.
 
 Minha base vem do **Design, Arte, Economia Criativa e Produção Cultural**, o que influencia diretamente minha visão de produto:  
 **Tecnologia como linguagem, Interface como experiência e Código como estrutura de comunicação.**
-
----
-
-## 🧰 Stack Principal
 
 <p align="center">
 
@@ -30,8 +25,6 @@ Minha base vem do **Design, Arte, Economia Criativa e Produção Cultural**, o q
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 </p>
-
----
 
 ## 🧰 Ferramentas
 
@@ -50,9 +43,7 @@ Minha base vem do **Design, Arte, Economia Criativa e Produção Cultural**, o q
 
 </div>
 
----
-
-## 💻 O que eu construo
+<h2 align="center">💻 O que eu construo</h2>
 
 - Interfaces web modernas e responsivas  
 - Aplicações front-end com arquitetura baseada em componentes  
@@ -60,9 +51,8 @@ Minha base vem do **Design, Arte, Economia Criativa e Produção Cultural**, o q
 - Integração de APIs e fluxos de dados  
 - Produtos digitais com foco em experiência do usuário  
 
----
 
-## 🧠 Como eu trabalho
+<h2 align="center">🧠 Como eu trabalho</h2>
 
 Meu processo é guiado por três pilares:
 
@@ -78,18 +68,16 @@ Desenvolvimento com acompanhamento contínuo e ajustes quando necessário.
 **4. Entrega**  
 Código organizado, revisão final e suporte pós-entrega.
 
----
 
-## 📌 Projetos e foco atual
+<h2 align="center">📌 Projetos e foco atual</h2>
 
 - Sistemas de interface com React / Next.js  
 - Design systems e componentes reutilizáveis  
 - Evolução de arquitetura front-end  
 - Melhoria contínua em UX aplicada ao desenvolvimento  
 
----
 
-## 📈 Direção atual
+<h2 align="center">📈 Direção atual</h2>
 
 Estou focado em evoluir em:
 
@@ -99,15 +87,13 @@ Estou focado em evoluir em:
 - Design systems em produção  
 - Desenvolvimento orientado a produto  
 
----
 
-## 📫 Contato
+<h2 align="center">📫 Contato</h2>
 
 - Serviços: https://breezelabstudio.vercel.app/  
 - LinkedIn: https://www.linkedin.com/in/gabrielc-souza/  
-- Portfólio: https://breezelabportfolio.vercel.app/  
+- Portfólio: https://breezelabportfolio.vercel.app/
 
----
 
 <div align="center">
 
