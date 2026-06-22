@@ -27,7 +27,6 @@ Minha base vem do **design, arte, economia criativa e produção cultural**, o q
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=flat-square&logo=krita&logoColor=white)
 
----
 
 ## 💻 O que eu construo
 
@@ -37,22 +36,22 @@ Minha base vem do **design, arte, economia criativa e produção cultural**, o q
 - Integração de APIs e fluxos de dados
 - Produtos digitais com foco em experiência do usuário
 
----
 
 ## 🧠 Como eu trabalho
 
 Meu processo é guiado por três pilares:
 
-**1. Clareza de interface**  
-Interfaces simples, diretas e sem fricção desnecessária.
+**1. Briefing**  
+Entendimento do projeto, do público e o objetivo antes de qualquer coisa.
 
-**2. Estrutura e escalabilidade**  
-Código organizado para crescimento de produto.
+**2. Proposta**  
+Avaliação do projeto e envio de orçamento detalhado com escopo, prazo e valores em até 24h.
 
-**3. Consistência de experiência**  
-Design e implementação alinhados do início ao fim.
+**3. Execução**  
+Desenvolvimento com atualização constante e abertura para ajustes.
 
----
+**4. Entrega**
+Arquivos organizados, revisão final e suporte pós-entrega.
 
 ## 📌 Projetos e foco atual
 
@@ -61,7 +60,6 @@ Design e implementação alinhados do início ao fim.
 - Evolução de arquitetura front-end  
 - Melhoria contínua em UX aplicada ao desenvolvimento  
 
----
 
 ## 📈 Direção atual
 
@@ -73,7 +71,6 @@ Estou focado em evoluir em:
 - Design systems reais em produção
 - Desenvolvimento orientado a produto
 
----
 
 ## 📫 Contato
 
@@ -81,7 +78,6 @@ Estou focado em evoluir em:
 - LinkedIn: https://www.linkedin.com/in/gabrielc-souza/  
 - Portfólio: https://breezelabportfolio.vercel.app/  
 
----
 
 <!-- FOOTER -->
 
