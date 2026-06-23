@@ -78,10 +78,10 @@ Melhoria contínua em UX aplicada ao desenvolvimento
 ### 📈 Estou focado em evoluir em:
 
 
-Arquitetura front-end escalável  
-React avançado  
-Performance web  
-Design systems em produção  
+Arquitetura Front-End escalável  
+React Avançado  
+Performance Web  
+Design Systems em produção  
 Desenvolvimento orientado a produto  
 
 
