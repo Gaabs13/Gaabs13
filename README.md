@@ -44,8 +44,6 @@ Minha base vem do **Design, Arte, Economia Criativa e Produção Cultural**, o q
 
 </p>
 
----
-
 ### 💻 O que eu construo
 
 Interfaces Web modernas e responsivas  
