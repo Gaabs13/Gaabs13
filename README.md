@@ -40,7 +40,7 @@ Minha base vem do **Design, Arte, Economia Criativa e Produção Cultural**, o q
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-3BABFF?style=flat-square&logo=krita&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-3BABFF?style=flat-square&logo=krita&logoColor=black)
 
 </p>
 
