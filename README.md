@@ -9,10 +9,10 @@
 ### Front-end Developer focado em interfaces modernas, escaláveis e centradas no usuário.
 
 
-Olá, eu sou o Gabriel Carlos de Souza. Tudo bem?
+Olá, eu sou o Gabriel Carlos de Souza. Tudo bem?<br>
 Atuo como Desenvolvedor Front-End com foco em construção de **Interfaces e Soluções Criativas.**
 
-Minha base vem do **Design, Arte, Economia Criativa e Produção Cultural**, o que influencia diretamente minha visão de produto:  
+Minha base vem do **Design, Arte, Economia Criativa e Produção Cultural**, o que influencia diretamente minha visão de produto:<br>  
 **Tecnologia como linguagem, Interface como experiência e Código como estrutura de comunicação.**
 
 🧱 **Principais Stacks:**
