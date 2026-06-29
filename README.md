@@ -87,8 +87,8 @@ Desenvolvimento orientado a produto
 
 ### 📫 Contato
 
-**Serviços:** https://breezelabstudio.vercel.app/  
-**LinkedIn:** https://www.linkedin.com/in/gabrielc-souza/  
-**Portfólio:** https://breezelabportfolio.vercel.app/
+**Serviços**<br>https://breezelabstudio.vercel.app/  
+**LinkedIn**<br>https://www.linkedin.com/in/gabrielc-souza/  
+**Portfólio**<br>https://breezelabportfolio.vercel.app/
 
 </div>
